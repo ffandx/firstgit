@@ -1,5 +1,5 @@
-﻿
-this is a test txt.
+﻿this is a test txt.
 git is free software distributed under the GPL
 update text
 git has a mutable index called stage
+create a new branch 
